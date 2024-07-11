@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shopping List PART2</string>
+    <string name="add_product">Add a Product</string>
+    <string name="hint_product">Product Name</string>
+    <string name="hint_quantity">Product Quantity </string>
+    <string name="hint_list">Name</string>
+    <string name="hint_image">Select Image please</string>
+    <string name="button_save">Save</string>
+    <string name="button_create">Create</string>
+    <string name="button_add">Add</string>
+    <string name="quantity_label">Quantity is:</string>
+    <string name="unit_label">Unit is:</string>
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+
+    <string-array name="labels_unit">
+        <item>Unit</item>
+        <item>Kg</item>
+        <item>Liter</item>
+    </string-array>
+</resources>
